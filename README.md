@@ -1,1 +1,11 @@
-# lendingclub_loan_analysis
+# LendingClub Loan Analysis
+
+## Problem Statement
+Loan default is the failure to pay back a debt according to initial arrangement. It causes huge loss to the banks and lenders, so they pay much attention on loan defaults and apply various methods to detect and predict default behaviors of their customers. Machine learning algorithms which have a good performance on this purpose, are widely used in banking and lending. 
+
+In this project, I will develop various machine learning models in order to correctly detect and predict good (low risk) and bad (high risk) loans using the LendingClub Loan Data. The machine learning models would bring added value by minimizing the associated risks and the LendingClub can decide whether a person is fit for a loan or not in the future. An exploratory data analysis (EDA) will be initially performed to develop insight about the data and features. After getting the data ready for the analysis, various machine learning models will be developed to correctly identify and predict good and bad loans. The analyses will also provide insightful recommendations and future steps that the LendingClub managers and investors might want to take into consideration. 
+
+## Final Results
+1.	Across different borrower purposes, those with educational purposes, small business purposes, and wedding purposes have a greater probability to be charged off than the borrowers with any other purposes. The LendingClub might want to take it consideration before issuing loans in order to minimize the risks of loan defaults and charge offs. 
+2.	The machine learning models that we have developed here successfully detect and predict good and bad loans. These algorithms can help the LendingClub identy the risky loans. More importantly, while we were working on this project, the LendingClub revealed another dataset for the next 3 years. This new dataset could be used by the LendingClub to validate our predictions. 
+3.	The LendingClub might want to use the most important features in predicting good and bad loans given above as a metric to identify individuals with higher risk to be defaulted or charged off. For example, the number of inquiries in the last 6 months is highly important in predicting the bad loans. Hence, the LendingClub could prepare a metric using the highly important features in predicting good and bad loans. 
