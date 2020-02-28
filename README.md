@@ -1,7 +1,7 @@
 # LendingClub Loan Analysis
 
 ## Problem Statement
-Loan default is the failure to pay back a debt according to initial arrangement. It causes huge loss to the banks and lenders, so they pay much attention on loan defaults and apply various methods to detect and predict default behaviors of their customers. Machine learning algorithms which have a good performance on this purpose, are widely used in banking and lending. 
+Loan default is the failure to pay back a debt according to an initial arrangement. It causes huge loss to the banks and lenders, so they pay much attention on loan defaults and apply various methods to detect and predict default behaviors of their customers. Machine learning algorithms which have a good performance on this purpose, are widely used in banking and lending. 
 
 In this project, I will develop various machine learning models in order to correctly detect and predict good (low risk) and bad (high risk) loans using the LendingClub Loan Data. The machine learning models would bring added value by minimizing the associated risks and the LendingClub can decide whether a person is fit for a loan or not in the future. An exploratory data analysis (EDA) will be initially performed to develop insight about the data and features. After getting the data ready for the analysis, various machine learning models will be developed to correctly identify and predict good and bad loans. The analyses will also provide insightful recommendations and future steps that the LendingClub managers and investors might want to take into consideration. 
 
